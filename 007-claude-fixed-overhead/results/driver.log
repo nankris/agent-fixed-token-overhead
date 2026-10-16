@@ -1,0 +1,26 @@
+start 1792006922 jobs=24 P=3
+default__empty__r2: pass=True sub=None tok=23538 cc=14926 cr=8606 out=4 cost=$0.1212172 turns=1 tools={} wall=5s 
+default__empty__r3: pass=True sub=None tok=18690 cc=10078 cr=8606 out=4 cost=$0.0824332 turns=1 tools={} wall=6s 
+default__empty__r1: pass=True sub=None tok=23540 cc=14928 cr=8606 out=4 cost=$0.1212332 turns=1 tools={} wall=6s 
+strict_mcp__empty__r1: pass=True sub=None tok=16458 cc=7846 cr=8606 out=4 cost=$0.0645772 turns=1 tools={} wall=4s 
+strict_mcp__empty__r2: pass=True sub=None tok=16456 cc=7844 cr=8606 out=4 cost=$0.0645612 turns=1 tools={} wall=4s 
+strict_mcp__empty__r3: pass=True sub=None tok=16456 cc=7844 cr=8606 out=4 cost=$0.0645612 turns=1 tools={} wall=5s 
+strict_noskills__empty__r1: pass=True sub=None tok=11389 cc=3400 cr=7983 out=4 cost=$0.0288846 turns=1 tools={} wall=3s 
+strict_noskills__empty__r2: pass=True sub=None tok=11393 cc=3404 cr=7983 out=4 cost=$0.0289166 turns=1 tools={} wall=3s 
+strict_noskills__empty__r3: pass=True sub=None tok=11391 cc=3402 cr=7983 out=4 cost=$0.028900600000000002 turns=1 tools={} wall=3s 
+strict_noskills_core3__empty__r1: pass=True sub=None tok=5653 cc=5647 cr=0 out=4 cost=$0.045264 turns=1 tools={} wall=4s 
+strict_noskills_core3__empty__r2: pass=True sub=None tok=5649 cc=5643 cr=0 out=4 cost=$0.045231999999999994 turns=1 tools={} wall=4s 
+strict_noskills_core3__empty__r3: pass=True sub=None tok=5651 cc=2565 cr=3080 out=4 cost=$0.021224 turns=1 tools={} wall=3s 
+strict_noskills_notools__empty__r2: pass=True sub=None tok=2773 cc=2118 cr=649 out=4 cost=$0.0171618 turns=1 tools={} wall=3s 
+strict_noskills_notools__empty__r1: pass=True sub=None tok=2773 cc=2118 cr=649 out=4 cost=$0.0171618 turns=1 tools={} wall=4s 
+strict_noskills_notools__empty__r3: pass=True sub=None tok=2771 cc=2116 cr=649 out=4 cost=$0.0171458 turns=1 tools={} wall=3s 
+strict_noskills_nodyn__empty__r1: pass=True sub=None tok=11202 cc=3213 cr=7983 out=4 cost=$0.027388600000000003 turns=1 tools={} wall=4s 
+strict_noskills_nodyn__empty__r2: pass=True sub=None tok=11200 cc=3211 cr=7983 out=4 cost=$0.0273726 turns=1 tools={} wall=3s 
+strict_noskills_nodyn__empty__r3: pass=True sub=None tok=11202 cc=3213 cr=7983 out=4 cost=$0.027388600000000003 turns=1 tools={} wall=3s 
+safe_mode__empty__r1: pass=True sub=None tok=13625 cc=5013 cr=8606 out=4 cost=$0.0419132 turns=1 tools={} wall=3s 
+safe_mode__empty__r2: pass=True sub=None tok=13626 cc=5014 cr=8606 out=4 cost=$0.0419212 turns=1 tools={} wall=3s 
+safe_mode__empty__r3: pass=True sub=None tok=13625 cc=3447 cr=10172 out=4 cost=$0.0296984 turns=1 tools={} wall=3s 
+custom_sysprompt_notools__empty__r1: pass=True sub=None tok=559 cc=553 cr=0 out=4 cost=$0.004512 turns=1 tools={} wall=3s 
+custom_sysprompt_notools__empty__r2: pass=True sub=None tok=559 cc=553 cr=0 out=4 cost=$0.004512 turns=1 tools={} wall=3s 
+custom_sysprompt_notools__empty__r3: pass=True sub=None tok=559 cc=553 cr=0 out=4 cost=$0.004512 turns=1 tools={} wall=3s 
+done 1792006953
